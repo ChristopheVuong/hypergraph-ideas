@@ -7,11 +7,14 @@
 - _Hypergraph Clustering Based on PageRank_ (2020): https://arxiv.org/pdf/2006.08302.pdf
 - Austin's lecture notes and videos on exchangeable arrays (hypergraph adjacency matrix): https://www.youtube.com/watch?v=y_rJ1-YFyWA
 - Kallenberg's work, Borgs correction, etc
+- Janson's work
+- Timothy Gowers courses at Collège de France
+- MIT courses by Yufei Zhao on graph limits
 
 ## To adapt
 - _Sparse graphs using exchangeable random measures_ (2015): framework for hypergraphs
 - Slides and videos at https://yufeizhao.com about sparse graph regularity 
-
+- Asymptotic results for configuration model
 
 ## Others
 - Music recommendation: https://slideplayer.com/slide/2613099/
