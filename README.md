@@ -8,8 +8,9 @@
 - Austin's lecture notes and videos on exchangeable arrays (hypergraph adjacency matrix): https://www.youtube.com/watch?v=y_rJ1-YFyWA
 - Kallenberg's work, Borgs correction, etc
 - Janson's work
-- Timothy Gowers courses at Collège de France
+- Timothy Gowers courses at Collège de France for Quasi-randomness
 - MIT courses by Yufei Zhao on graph limits
+- Springer Epidemics
 
 ## To adapt
 - _Sparse graphs using exchangeable random measures_ (2015): framework for hypergraphs
